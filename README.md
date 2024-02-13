@@ -7,7 +7,7 @@ Recent projects:
 - [TV show website](https://friends-website.vercel.app)
 - [Personal blog](https://wiecejnizblog.netlify.app)
 
-Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/eryk-malinowski) or [Email](mailto:eryk.malinowski1992@gmail.com)
+Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/eryk-malinowski) or [Email](mailto:eryk.malinowski1992@gmail.com).
 
 ## Tech Stack :man_technologist:
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
